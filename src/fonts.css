@@ -1,16 +1,52 @@
 
 /* FONTS */
 
+/* micro */
+@font-face {
+    font-family: "Recursive Mono Micro Light";
+    src: url("fonts/RecursiveMonov0.0.11-MicroLight.otf");
+}
 @font-face {
     font-family: "Recursive Mono Micro Regular";
-    src: url("fonts/RecursiveMono-MicroRegular.otf");
+    src: url("fonts/RecursiveMonov0.0.11-MicroRegular.otf");
+}
+@font-face {
+    font-family: "Recursive Mono Micro Medium";
+    src: url("fonts/RecursiveMonov0.0.11-MicroMedium.otf");
+}
+@font-face {
+    font-family: "Recursive Mono Micro Bold";
+    src: url("fonts/RecursiveMonov0.0.11-MicroBold.otf");
+}
+
+/* text */
+
+@font-face {
+    font-family: "Recursive Mono Text Light";
+    src: url("fonts/RecursiveMonov0.0.11-TextLight.otf");
+}
+@font-face {
+    font-family: "Recursive Mono Text Regular";
+    src: url("fonts/RecursiveMonov0.0.11-TextRegular.otf");
+}
+@font-face {
+    font-family: "Recursive Mono Text Medium";
+    src: url("fonts/RecursiveMonov0.0.11-TextMedium.otf");
 }
 @font-face {
     font-family: "Recursive Mono Text Bold";
-    src: url("fonts/Recursive Mono Text-Bold.otf");
+    src: url("fonts/RecursiveMonov0.0.11-TextBold.otf");
 }
 
 :root {
-    --micro-reg:"Recursive Mono Micro Regular", "IBM Plex Mono", monospace;
+    --micro-light:"Recursive Mono Micro Light", "IBM Plex Mono", monospace;
+    --micro-regular:"Recursive Mono Micro Regular", "IBM Plex Mono", monospace;
+    --micro-medium:"Recursive Mono Micro Medium", "IBM Plex Mono", monospace;
+    --micro-bold:"Recursive Mono Micro Bold", "IBM Plex Mono", monospace;
+    --text-light:"Recursive Mono Text Light", "IBM Plex Mono", monospace;
+    --text-regular:"Recursive Mono Text Regular", "IBM Plex Mono", monospace;
+    --text-medium:"Recursive Mono Text Medium", "IBM Plex Mono", monospace;
     --text-bold:"Recursive Mono Text Bold", "IBM Plex Mono", monospace;
+
+    --w-light: 200;
 }
