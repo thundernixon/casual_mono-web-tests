@@ -1,0 +1,15 @@
+{
+  "name": "02-recursive-web-tests",
+  "version": "1.0.0",
+  "description": "web tests for a type project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files 'src/*.html, src/*.css, src/*.js' --port 3000 --startPath 'src'"
+  },
+  "author": "Stephen Nixon",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
