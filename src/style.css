@@ -17,6 +17,16 @@ html {
     --text-medium:"Recursive Mono Text Medium", "IBM Plex Mono", monospace;
     --text-bold:"Recursive Mono Text Bold", "IBM Plex Mono", monospace;
 
+    /* sans */
+    --sans-micro-light:"Recursive Sans Micro Light", "IBM Plex Sans", monospace;
+    --sans-micro-regular:"Recursive Sans Micro Regular", "IBM Plex Sans", monospace;
+    --sans-micro-medium:"Recursive Sans Micro Medium", "IBM Plex Sans", monospace;
+    --sans-micro-bold:"Recursive Sans Micro Bold", "IBM Plex Sans", monospace;
+    --sans-text-light:"Recursive Sans Text Light", "IBM Plex Sans", monospace;
+    --sans-text-regular:"Recursive Sans Text Regular", "IBM Plex Sans", monospace;
+    --sans-text-medium:"Recursive Sans Text Medium", "IBM Plex Sans", monospace;
+    --sans-text-bold:"Recursive Sans Text Bold", "IBM Plex Sans", monospace;
+
     --w-light: 200;
 }
 
