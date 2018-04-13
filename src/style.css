@@ -1,8 +1,86 @@
+/* RESET */
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/* FONTS */
+
 @font-face {
-    font-family: "Recursive Micro Regular";
+    font-family: "Recursive Mono Micro Regular";
     src: url("fonts/RecursiveMono-MicroRegular.otf");
-  }
+}
+@font-face {
+    font-family: "Recursive Mono Text Bold";
+    src: url("fonts/Recursive Mono Text-Bold.otf");
+}
+
+
+
+:root {
+    --micro-reg:"Recursive Mono Micro Regular", IBM Plex Mono Thin, monospace;
+    --text-bold:"Recursive Mono Text Bold", IBM Plex Mono Thin, monospace;
+}
 
 * {
-    font-family: "Recursive Micro Regular", Menlo, monospace;
+    /* font-family: var(--micro-reg), Menlo, monospace; */
+    /* font-family: "RecursiveMonov0.0.11-TextBold", Menlo; */
 }
+
+/* GRID */
+
+.page {
+    padding: 2vw;
+    display: grid;
+    grid-gap: 20px;
+    /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+    grid-template-columns: repeat(auto-fit, 100px);
+    grid-template-rows: repeat(auto-fit, minmax(50px, 1fr));
+    align-items: flex-start;
+    border-bottom: 1px black solid;
+    font-family:  var(--micro-reg), "IBM Plex Mono Thin", monospace;
+}
+
+@media print {
+    .page {
+        border-bottom: none;
+    }
+}
+
+@page {
+    margin: 36pt;
+}
+
+.page h2 {
+    grid-column: 1 / -1;
+}
+
+.alphabet {
+    font-size: 4rem;
+    line-height: 4rem;
+    grid-column: 1 / -1;
+    word-wrap: break-word;
+    
+}
+
+.large-text {
+    font-size: 20pt;
+    line-height: 1.25;
+    grid-column: 1 / span 4;
+}
+
+.small-text {
+    font-size: 10pt;
+    line-height: 1.5;
+    grid-column: auto / span 6;
+}
+
+.caption {
+    font-size: 10pt;
+    line-height: 1.5;
+    font-color: #444;
+}
+
