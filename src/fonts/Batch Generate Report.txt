@@ -53,9 +53,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:06:35 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 18:59:59 2018.
         ...................................
-        Saving font file with new hints...Fri Apr 13 18:06:47 2018
+        Saving font file with new hints...Fri Apr 13 19:00:04 2018
         None
         
         Traceback (most recent call last):
@@ -100,9 +100,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:06:48 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:00:05 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:06:52 2018
+        Saving font file with new hints...Fri Apr 13 19:00:10 2018
         None
         
         Traceback (most recent call last):
@@ -147,10 +147,10 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:06:53 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:00:12 2018.
         .........................................
-        ...........
-        Saving font file with new hints...Fri Apr 13 18:07:03 2018
+        ........................
+        Saving font file with new hints...Fri Apr 13 19:00:21 2018
         None
         
         Traceback (most recent call last):
@@ -179,7 +179,7 @@ Generate otf
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <A>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <M>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <U>\n' b'makeotfexe [WARNING] unhinted <V>\n' b'makeotfexe [WARNING] unhinted <W>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <exclam>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] <RecursiveSans-TextBold> Major version number not in range 1 .. 255 [features 19]\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveSans-TextBold.otf'.\n" b'\n' Built release mode font 'RecursiveSans-TextBold.otf' Revision 0.000
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <A>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <M>\n' b'makeotfexe [WARNING] unhinted <N>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <U>\n' b'makeotfexe [WARNING] unhinted <V>\n' b'makeotfexe [WARNING] unhinted <W>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <zero>\n' b'makeotfexe [WARNING] unhinted <one>\n' b'makeotfexe [WARNING] unhinted <two>\n' b'makeotfexe [WARNING] unhinted <three>\n' b'makeotfexe [WARNING] unhinted <four>\n' b'makeotfexe [WARNING] unhinted <five>\n' b'makeotfexe [WARNING] unhinted <six>\n' b'makeotfexe [WARNING] unhinted <seven>\n' b'makeotfexe [WARNING] unhinted <eight>\n' b'makeotfexe [WARNING] unhinted <nine>\n' b'makeotfexe [WARNING] unhinted <exclam>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] unhinted <zero.ss01>\n' b'makeotfexe [WARNING] unhinted <zero.sad>\n' b'makeotfexe [WARNING] <RecursiveSans-TextBold> Major version number not in range 1 .. 255 [features 19]\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveSans-TextBold.otf'.\n" b'\n' Built release mode font 'RecursiveSans-TextBold.otf' Revision 0.000
         
         --------------------
 
@@ -195,10 +195,10 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:07:08 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:00:23 2018.
         .........................................
-        .......
-        Saving font file with new hints...Fri Apr 13 18:07:13 2018
+        .................
+        Saving font file with new hints...Fri Apr 13 19:00:32 2018
         None
         
         Traceback (most recent call last):
@@ -227,7 +227,7 @@ Generate otf
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <braceleft>\n' b'makeotfexe [WARNING] unhinted <braceright>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] <RecursiveSans-TextLight> Major version number not in range 1 .. 255 [features 19]\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveSans-TextLight.otf'.\n" b'\n' Built release mode font 'RecursiveSans-TextLight.otf' Revision 0.000
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <zero>\n' b'makeotfexe [WARNING] unhinted <one>\n' b'makeotfexe [WARNING] unhinted <two>\n' b'makeotfexe [WARNING] unhinted <three>\n' b'makeotfexe [WARNING] unhinted <four>\n' b'makeotfexe [WARNING] unhinted <five>\n' b'makeotfexe [WARNING] unhinted <six>\n' b'makeotfexe [WARNING] unhinted <seven>\n' b'makeotfexe [WARNING] unhinted <eight>\n' b'makeotfexe [WARNING] unhinted <nine>\n' b'makeotfexe [WARNING] unhinted <braceleft>\n' b'makeotfexe [WARNING] unhinted <braceright>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] <RecursiveSans-TextLight> Major version number not in range 1 .. 255 [features 19]\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveSans-TextLight.otf'.\n" b'\n' Built release mode font 'RecursiveSans-TextLight.otf' Revision 0.000
         
         --------------------
 
@@ -243,9 +243,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:07:16 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:00:33 2018.
         ...................................
-        Saving font file with new hints...Fri Apr 13 18:07:25 2018
+        Saving font file with new hints...Fri Apr 13 19:00:38 2018
         None
         
         Traceback (most recent call last):
@@ -290,10 +290,10 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:07:28 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:00:39 2018.
         .........................................
-        ...........
-        Saving font file with new hints...Fri Apr 13 18:07:38 2018
+        ........................
+        Saving font file with new hints...Fri Apr 13 19:00:48 2018
         None
         
         Traceback (most recent call last):
@@ -322,7 +322,7 @@ Generate otf
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <A>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <M>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <U>\n' b'makeotfexe [WARNING] unhinted <V>\n' b'makeotfexe [WARNING] unhinted <W>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <exclam>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] <RecursiveSans-TextBold> Major version number not in range 1 .. 255 [features 19]\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveSans-TextBold.otf'.\n" b'\n' Built release mode font 'RecursiveSans-TextBold.otf' Revision 0.000
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <A>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <M>\n' b'makeotfexe [WARNING] unhinted <N>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <U>\n' b'makeotfexe [WARNING] unhinted <V>\n' b'makeotfexe [WARNING] unhinted <W>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <zero>\n' b'makeotfexe [WARNING] unhinted <one>\n' b'makeotfexe [WARNING] unhinted <two>\n' b'makeotfexe [WARNING] unhinted <three>\n' b'makeotfexe [WARNING] unhinted <four>\n' b'makeotfexe [WARNING] unhinted <five>\n' b'makeotfexe [WARNING] unhinted <six>\n' b'makeotfexe [WARNING] unhinted <seven>\n' b'makeotfexe [WARNING] unhinted <eight>\n' b'makeotfexe [WARNING] unhinted <nine>\n' b'makeotfexe [WARNING] unhinted <exclam>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] unhinted <zero.ss01>\n' b'makeotfexe [WARNING] unhinted <zero.sad>\n' b'makeotfexe [WARNING] <RecursiveSans-TextBold> Major version number not in range 1 .. 255 [features 19]\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveSans-TextBold.otf'.\n" b'\n' Built release mode font 'RecursiveSans-TextBold.otf' Revision 0.000
         
         --------------------
 
@@ -338,10 +338,10 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:07:40 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:00:50 2018.
         .........................................
-        .......
-        Saving font file with new hints...Fri Apr 13 18:07:54 2018
+        .................
+        Saving font file with new hints...Fri Apr 13 19:00:58 2018
         None
         
         Traceback (most recent call last):
@@ -370,7 +370,7 @@ Generate otf
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <braceleft>\n' b'makeotfexe [WARNING] unhinted <braceright>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] <RecursiveSans-TextLight> Major version number not in range 1 .. 255 [features 19]\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveSans-TextLight.otf'.\n" b'\n' Built release mode font 'RecursiveSans-TextLight.otf' Revision 0.000
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <zero>\n' b'makeotfexe [WARNING] unhinted <one>\n' b'makeotfexe [WARNING] unhinted <two>\n' b'makeotfexe [WARNING] unhinted <three>\n' b'makeotfexe [WARNING] unhinted <four>\n' b'makeotfexe [WARNING] unhinted <five>\n' b'makeotfexe [WARNING] unhinted <six>\n' b'makeotfexe [WARNING] unhinted <seven>\n' b'makeotfexe [WARNING] unhinted <eight>\n' b'makeotfexe [WARNING] unhinted <nine>\n' b'makeotfexe [WARNING] unhinted <braceleft>\n' b'makeotfexe [WARNING] unhinted <braceright>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] <RecursiveSans-TextLight> Major version number not in range 1 .. 255 [features 19]\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveSans-TextLight.otf'.\n" b'\n' Built release mode font 'RecursiveSans-TextLight.otf' Revision 0.000
         
         --------------------
 
@@ -386,9 +386,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:07:55 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:00:59 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:07:59 2018
+        Saving font file with new hints...Fri Apr 13 19:01:03 2018
         None
         
         Traceback (most recent call last):
@@ -433,9 +433,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:08:02 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:01:04 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:08:13 2018
+        Saving font file with new hints...Fri Apr 13 19:01:09 2018
         None
         
         Traceback (most recent call last):
@@ -480,9 +480,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:08:16 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:01:10 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:08:19 2018
+        Saving font file with new hints...Fri Apr 13 19:01:14 2018
         None
         
         Traceback (most recent call last):
@@ -527,9 +527,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:08:24 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:01:16 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:08:31 2018
+        Saving font file with new hints...Fri Apr 13 19:01:20 2018
         None
         
         Traceback (most recent call last):
@@ -574,9 +574,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:08:32 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:01:21 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:08:41 2018
+        Saving font file with new hints...Fri Apr 13 19:01:26 2018
         None
         
         Traceback (most recent call last):
@@ -621,9 +621,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:08:42 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:01:27 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:08:51 2018
+        Saving font file with new hints...Fri Apr 13 19:01:31 2018
         None
         
         Traceback (most recent call last):
@@ -668,9 +668,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:08:55 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:01:32 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:09:01 2018
+        Saving font file with new hints...Fri Apr 13 19:01:37 2018
         None
         
         Traceback (most recent call last):
@@ -715,9 +715,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:09:02 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:01:38 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:09:10 2018
+        Saving font file with new hints...Fri Apr 13 19:01:42 2018
         None
         
         Traceback (most recent call last):
@@ -762,9 +762,9 @@ Generate otf
         
         autohint Report
         
-        Hinting font font.otf. Start time: Fri Apr 13 18:09:13 2018.
+        Hinting font font.otf. Start time: Fri Apr 13 19:01:44 2018.
         ................................
-        Saving font file with new hints...Fri Apr 13 18:09:23 2018
+        Saving font file with new hints...Fri Apr 13 19:01:48 2018
         None
         
         Traceback (most recent call last):
