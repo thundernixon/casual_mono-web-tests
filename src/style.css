@@ -101,7 +101,7 @@ nav li a {
 
 @page {
     margin: 18pt;
-    size: landscape;
+    size: landscape a4;
 }
 
 .page {
@@ -142,7 +142,7 @@ nav li a {
 }
 
 .alphabet {
-    font-size: 4.25rem;
+    font-size: 4rem;
     line-height: 4rem;
     margin:0rem 0;
     grid-column: 1 / -1;
@@ -211,7 +211,7 @@ nav li a {
 .size-1 {
     font-size: 36px;
     line-height: 1.25;
-    max-width: 30em;
+    max-width: 27.5em;
 }
 .size-2 {
     font-size: 24px;
@@ -221,5 +221,5 @@ nav li a {
 .size-3 {
     font-size: 18px;
     line-height: 1.25;
-    max-width: 30em;
+    max-width: 35em;
 }
