@@ -109,13 +109,19 @@ nav li a {
     overflow-x: hidden;
     display: grid;
     grid-gap: 20px;
-    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    grid-template-columns: repeat(12, minmax(80px, 1fr));
     /* grid-template-columns: repeat(auto-fit, 100px); */
     grid-template-rows: repeat(auto-fit, minmax(40px, auto));
     align-items: flex-start;
     border-bottom: 1px black solid;
     font-family:  var(--micro-reg), "IBM Plex Mono Thin", monospace;
     
+}
+
+@media (max-width:1000px) {
+    .page {
+        /* grid-template-columns: repeat(8, minmax(80px, 1fr)); */
+    }
 }
 
 @media print {
@@ -195,4 +201,25 @@ nav li a {
     .section-title h3 {
         font-size: 5vw;
     }
+}
+
+.waterfall {
+    margin: 0;
+    grid-column: 1 / -1;
+}
+
+.size-1 {
+    font-size: 36px;
+    line-height: 1.25;
+    max-width: 30em;
+}
+.size-2 {
+    font-size: 24px;
+    line-height: 1.25;
+    max-width: 30em;
+}
+.size-3 {
+    font-size: 18px;
+    line-height: 1.25;
+    max-width: 30em;
 }
