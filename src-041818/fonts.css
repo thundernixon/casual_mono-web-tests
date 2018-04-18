@@ -1,0 +1,12 @@
+
+/* FONTS */
+
+@font-face {
+    font-family: "Recursive Sans Heading Bold";
+    src: url("fonts/Recursive Sans Heading-Bold.otf");
+}
+
+@font-face {
+    font-family: "Recursive Mono Heading Bold";
+    src: url("fonts/Recursive Mono Heading-Bold.otf");
+}
