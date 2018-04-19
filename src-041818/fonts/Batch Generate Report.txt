@@ -1,0 +1,802 @@
+Batch Generated Fonts:
+**********************
+
+Decompose:
+**********
+    Recursive Mono Heading Bold
+    Recursive Mono Heading Light
+    Recursive Mono Text Light
+    Recursive Mono Text Bold
+    Recursive Mono Text Bold
+    Recursive Mono Heading Bold
+    Recursive Mono Heading Light
+    Recursive Mono Text Light
+    Recursive Mono Text Regular
+    Recursive Mono Text Medium
+    Recursive Mono Heading Regular
+    Recursive Mono Heading Medium
+    Recursive Mono Midway Bold
+    Recursive Mono Midway Medium
+    Recursive Mono Midway Regular
+    Recursive Mono Midway Light
+
+Remove Overlap:
+***************
+    Recursive Mono Heading Bold
+    Recursive Mono Heading Light
+    Recursive Mono Text Light
+    Recursive Mono Text Bold
+    Recursive Mono Text Bold
+    Recursive Mono Heading Bold
+    Recursive Mono Heading Light
+    Recursive Mono Text Light
+    Recursive Mono Text Regular
+    Recursive Mono Text Medium
+    Recursive Mono Heading Regular
+    Recursive Mono Heading Medium
+    Recursive Mono Midway Bold
+    Recursive Mono Midway Medium
+    Recursive Mono Midway Regular
+    Recursive Mono Midway Light
+
+Generate:
+*********
+Recursive Mono Heading-Bold.ufo
+*******************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Heading-Bold.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-HeadingBold.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:47:06 2018.
+        .........................................
+        .........................................
+        ..............
+        Saving font file with new hints...Thu Apr 19 13:47:21 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] adding the style Bold from fontinfo keyword.
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <A>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <J>\n' b'makeotfexe [WARNING] unhinted <K>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <M>\n' b'makeotfexe [WARNING] unhinted <N>\n' b'makeotfexe [WARNING] unhinted <O>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <U>\n' b'makeotfexe [WARNING] unhinted <V>\n' b'makeotfexe [WARNING] unhinted <W>\n' b'makeotfexe [WARNING] unhinted <Y>\n' b'makeotfexe [WARNING] unhinted <Z>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <i.ss01>\n' b'makeotfexe [WARNING] unhinted <l.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <zero>\n' b'makeotfexe [WARNING] unhinted <one>\n' b'makeotfexe [WARNING] unhinted <two>\n' b'makeotfexe [WARNING] unhinted <three>\n' b'makeotfexe [WARNING] unhinted <four>\n' b'makeotfexe [WARNING] unhinted <five>\n' b'makeotfexe [WARNING] unhinted <six>\n' b'makeotfexe [WARNING] unhinted <seven>\n' b'makeotfexe [WARNING] unhinted <eight>\n' b'makeotfexe [WARNING] unhinted <nine>\n' b'makeotfexe [WARNING] unhinted <exclam>\n' b'makeotfexe [WARNING] unhinted <comma>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] unhinted <colon>\n' b'makeotfexe [WARNING] unhinted <semicolon>\n' b'makeotfexe [WARNING] unhinted <zero.ss01>\n' b'makeotfexe [WARNING] unhinted <e.002>\n' b'makeotfexe [WARNING] unhinted <m.ss01>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <n.alt1>\n' b'makeotfexe [WARNING] unhinted <h.alt1>\n' b'makeotfexe [WARNING] unhinted <m.alt1>\n' b'makeotfexe [WARNING] unhinted <u.alt1>\n' b'makeotfexe [WARNING] unhinted <b.alt1>\n' b'makeotfexe [WARNING] unhinted <d.alt1>\n' b'makeotfexe [WARNING] unhinted <p.alt1>\n' b'makeotfexe [WARNING] unhinted <r.alt1>\n' b'makeotfexe [WARNING] unhinted <f.alt1>\n' b'makeotfexe [WARNING] unhinted <n.alt2>\n' b'makeotfexe [WARNING] unhinted <h.alt2>\n' b'makeotfexe [WARNING] unhinted <m.alt2>\n' b'makeotfexe [WARNING] unhinted <u.alt2>\n' b'makeotfexe [WARNING] unhinted <b.alt2>\n' b'makeotfexe [WARNING] unhinted <d.alt2>\n' b'makeotfexe [WARNING] unhinted <p.alt2>\n' b'makeotfexe [WARNING] unhinted <r.alt2>\n' b'makeotfexe [WARNING] unhinted <f.alt2>\n' b'makeotfexe [WARNING] unhinted <y.alt2>\n' b'makeotfexe [WARNING] unhinted <v.alt2>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-HeadingBold.otf'.\n" b'\n' Built release mode font 'RecursiveMono-HeadingBold.otf' Revision 1.012
+        
+        --------------------
+
+Recursive Mono Heading-Light.ufo
+********************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Heading-Light.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-HeadingLight.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:47:22 2018.
+        .........................................
+        ......................
+        Saving font file with new hints...Thu Apr 19 13:47:32 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <zero>\n' b'makeotfexe [WARNING] unhinted <one>\n' b'makeotfexe [WARNING] unhinted <two>\n' b'makeotfexe [WARNING] unhinted <three>\n' b'makeotfexe [WARNING] unhinted <four>\n' b'makeotfexe [WARNING] unhinted <five>\n' b'makeotfexe [WARNING] unhinted <six>\n' b'makeotfexe [WARNING] unhinted <seven>\n' b'makeotfexe [WARNING] unhinted <eight>\n' b'makeotfexe [WARNING] unhinted <nine>\n' b'makeotfexe [WARNING] unhinted <braceleft>\n' b'makeotfexe [WARNING] unhinted <braceright>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] unhinted <comma>\n' b'makeotfexe [WARNING] unhinted <semicolon>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <i.ss01>\n' b'makeotfexe [WARNING] unhinted <l.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-HeadingLight.otf'.\n" b'\n' Built release mode font 'RecursiveMono-HeadingLight.otf' Revision 1.012
+        
+        --------------------
+
+Recursive Mono Text-Light.ufo
+*****************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Text-Light.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-TextLight.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:47:33 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:47:39 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-TextLight.otf'.\n" b'\n' Built release mode font 'RecursiveMono-TextLight.otf' Revision 1.012
+        
+        --------------------
+
+Recursive Mono-Text Bold.ufo
+****************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono-Text Bold.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-TextBold.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:47:40 2018.
+        ........................................
+        Saving font file with new hints...Thu Apr 19 13:47:46 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <m.ss01>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <i.ss03>\n' b'makeotfexe [WARNING] unhinted <l.ss03>\n' b'makeotfexe [WARNING] unhinted <t.ss03>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-TextBold.otf'.\n" b'\n' Built release mode font 'RecursiveMono-TextBold.otf' Revision 1.012
+        
+        --------------------
+
+Recursive Mono-Text Bold.ufo
+****************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono-Text Bold.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-TextBold.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:47:47 2018.
+        ........................................
+        Saving font file with new hints...Thu Apr 19 13:47:53 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <m.ss01>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <i.ss03>\n' b'makeotfexe [WARNING] unhinted <l.ss03>\n' b'makeotfexe [WARNING] unhinted <t.ss03>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-TextBold.otf'.\n" b'\n' Built release mode font 'RecursiveMono-TextBold.otf' Revision 1.012
+        
+        --------------------
+
+Recursive Mono Heading-Bold.ufo
+*******************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Heading-Bold.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-HeadingBold.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:47:54 2018.
+        .........................................
+        .........................................
+        ..............
+        Saving font file with new hints...Thu Apr 19 13:48:09 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] adding the style Bold from fontinfo keyword.
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <A>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <J>\n' b'makeotfexe [WARNING] unhinted <K>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <M>\n' b'makeotfexe [WARNING] unhinted <N>\n' b'makeotfexe [WARNING] unhinted <O>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <U>\n' b'makeotfexe [WARNING] unhinted <V>\n' b'makeotfexe [WARNING] unhinted <W>\n' b'makeotfexe [WARNING] unhinted <Y>\n' b'makeotfexe [WARNING] unhinted <Z>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <i.ss01>\n' b'makeotfexe [WARNING] unhinted <l.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b'makeotfexe [WARNING] unhinted <zero>\n' b'makeotfexe [WARNING] unhinted <one>\n' b'makeotfexe [WARNING] unhinted <two>\n' b'makeotfexe [WARNING] unhinted <three>\n' b'makeotfexe [WARNING] unhinted <four>\n' b'makeotfexe [WARNING] unhinted <five>\n' b'makeotfexe [WARNING] unhinted <six>\n' b'makeotfexe [WARNING] unhinted <seven>\n' b'makeotfexe [WARNING] unhinted <eight>\n' b'makeotfexe [WARNING] unhinted <nine>\n' b'makeotfexe [WARNING] unhinted <exclam>\n' b'makeotfexe [WARNING] unhinted <comma>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] unhinted <colon>\n' b'makeotfexe [WARNING] unhinted <semicolon>\n' b'makeotfexe [WARNING] unhinted <zero.ss01>\n' b'makeotfexe [WARNING] unhinted <e.002>\n' b'makeotfexe [WARNING] unhinted <m.ss01>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <n.alt1>\n' b'makeotfexe [WARNING] unhinted <h.alt1>\n' b'makeotfexe [WARNING] unhinted <m.alt1>\n' b'makeotfexe [WARNING] unhinted <u.alt1>\n' b'makeotfexe [WARNING] unhinted <b.alt1>\n' b'makeotfexe [WARNING] unhinted <d.alt1>\n' b'makeotfexe [WARNING] unhinted <p.alt1>\n' b'makeotfexe [WARNING] unhinted <r.alt1>\n' b'makeotfexe [WARNING] unhinted <f.alt1>\n' b'makeotfexe [WARNING] unhinted <n.alt2>\n' b'makeotfexe [WARNING] unhinted <h.alt2>\n' b'makeotfexe [WARNING] unhinted <m.alt2>\n' b'makeotfexe [WARNING] unhinted <u.alt2>\n' b'makeotfexe [WARNING] unhinted <b.alt2>\n' b'makeotfexe [WARNING] unhinted <d.alt2>\n' b'makeotfexe [WARNING] unhinted <p.alt2>\n' b'makeotfexe [WARNING] unhinted <r.alt2>\n' b'makeotfexe [WARNING] unhinted <f.alt2>\n' b'makeotfexe [WARNING] unhinted <y.alt2>\n' b'makeotfexe [WARNING] unhinted <v.alt2>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-HeadingBold.otf'.\n" b'\n' Built release mode font 'RecursiveMono-HeadingBold.otf' Revision 1.012
+        
+        --------------------
+
+Recursive Mono Heading-Light.ufo
+********************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Heading-Light.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-HeadingLight.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:48:10 2018.
+        .........................................
+        ......................
+        Saving font file with new hints...Thu Apr 19 13:48:20 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <D>\n' b'makeotfexe [WARNING] unhinted <E>\n' b'makeotfexe [WARNING] unhinted <F>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <H>\n' b'makeotfexe [WARNING] unhinted <I>\n' b'makeotfexe [WARNING] unhinted <L>\n' b'makeotfexe [WARNING] unhinted <P>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <T>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <zero>\n' b'makeotfexe [WARNING] unhinted <one>\n' b'makeotfexe [WARNING] unhinted <two>\n' b'makeotfexe [WARNING] unhinted <three>\n' b'makeotfexe [WARNING] unhinted <four>\n' b'makeotfexe [WARNING] unhinted <five>\n' b'makeotfexe [WARNING] unhinted <six>\n' b'makeotfexe [WARNING] unhinted <seven>\n' b'makeotfexe [WARNING] unhinted <eight>\n' b'makeotfexe [WARNING] unhinted <nine>\n' b'makeotfexe [WARNING] unhinted <braceleft>\n' b'makeotfexe [WARNING] unhinted <braceright>\n' b'makeotfexe [WARNING] unhinted <period>\n' b'makeotfexe [WARNING] unhinted <comma>\n' b'makeotfexe [WARNING] unhinted <semicolon>\n' b'makeotfexe [WARNING] unhinted <f.ss01>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <i.ss01>\n' b'makeotfexe [WARNING] unhinted <l.ss01>\n' b'makeotfexe [WARNING] unhinted <r.ss01>\n' b'makeotfexe [WARNING] unhinted <s.alt1>\n' b'makeotfexe [WARNING] unhinted <r.ss02>\n' b'makeotfexe [WARNING] unhinted <g.ver02>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-HeadingLight.otf'.\n" b'\n' Built release mode font 'RecursiveMono-HeadingLight.otf' Revision 1.012
+        
+        --------------------
+
+Recursive Mono Text-Light.ufo
+*****************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Text-Light.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-TextLight.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:48:21 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:48:27 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <S>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-TextLight.otf'.\n" b'\n' Built release mode font 'RecursiveMono-TextLight.otf' Revision 1.012
+        
+        --------------------
+
+RecursiveMono-TextRegular.ufo
+*****************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/instances/RecursiveMono-TextRegular.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-TextRegular.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:48:28 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:48:33 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <S>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-TextRegular.otf'.\n" b'\n' Built release mode font 'RecursiveMono-TextRegular.otf' Revision 1.012
+        
+        --------------------
+
+RecursiveMono-TextMedium.ufo
+****************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/instances/RecursiveMono-TextMedium.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-TextMedium.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:48:34 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:48:40 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <S>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-TextMedium.otf'.\n" b'\n' Built release mode font 'RecursiveMono-TextMedium.otf' Revision 1.012
+        
+        --------------------
+
+RecursiveMono-HeadingRegular.ufo
+********************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/instances/RecursiveMono-HeadingRegular.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-HeadingRegular.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:48:41 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:48:47 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <S>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-HeadingRegular.otf'.\n" b'\n' Built release mode font 'RecursiveMono-HeadingRegular.otf' Revision 1.012
+        
+        --------------------
+
+RecursiveMono-HeadingMedium.ufo
+*******************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/instances/RecursiveMono-HeadingMedium.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-HeadingMedium.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:48:48 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:48:54 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <S>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-HeadingMedium.otf'.\n" b'\n' Built release mode font 'RecursiveMono-HeadingMedium.otf' Revision 1.012
+        
+        --------------------
+
+RecursiveMono-MidwayBold.ufo
+****************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/instances/RecursiveMono-MidwayBold.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-MidwayBold.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:48:55 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:49:00 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <S>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-MidwayBold.otf'.\n" b'\n' Built release mode font 'RecursiveMono-MidwayBold.otf' Revision 1.012
+        
+        --------------------
+
+RecursiveMono-MidwayMedium.ufo
+******************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/instances/RecursiveMono-MidwayMedium.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-MidwayMedium.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:49:01 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:49:08 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <S>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-MidwayMedium.otf'.\n" b'\n' Built release mode font 'RecursiveMono-MidwayMedium.otf' Revision 1.012
+        
+        --------------------
+
+RecursiveMono-MidwayRegular.ufo
+*******************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/instances/RecursiveMono-MidwayRegular.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-MidwayRegular.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:49:09 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:49:14 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <S>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-MidwayRegular.otf'.\n" b'\n' Built release mode font 'RecursiveMono-MidwayRegular.otf' Revision 1.012
+        
+        --------------------
+
+RecursiveMono-MidwayLight.ufo
+*****************************
+
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/instances/RecursiveMono-MidwayLight.ufo
+
+Generate otf
+''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/RecursiveMono-MidwayLight.otf
+        --------------------
+        
+        autohint Report
+        
+        Hinting font font.otf. Start time: Thu Apr 19 13:49:15 2018.
+        .....................................
+        Saving font file with new hints...Thu Apr 19 13:49:21 2018
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 279, in _executeCommand
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontCompiler/tools/compileTools.py", line 331, in embedded_autohint
+          File "autohint.py", line 1325, in hintFile
+          File "BezTools.py", line 1193, in saveChanges
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 166, in save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 205, in _save
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 615, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 619, in _writeTable
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/ttFont.py", line 637, in getTableData
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/ttLib/tables/C_F_F_.py", line 20, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 108, in compile
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/cffLib/__init__.py", line 2340, in recalcFontBBox
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 984, in calcBounds
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 979, in draw
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 301, in execute
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 360, in op_hintmask
+          File "/Applications/RoboFont3.app/Contents/Resources/lib/python3.6/fontTools/misc/psCharStrings.py", line 1073, in getBytes
+        AssertionError
+        
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b'makeotfexe [WARNING] --- Source font: font.otf.tmp\n' b'makeotfexe [WARNING] unhinted <.notdef>\n' b'makeotfexe [WARNING] unhinted <q>\n' b'makeotfexe [WARNING] unhinted <d>\n' b'makeotfexe [WARNING] unhinted <C>\n' b'makeotfexe [WARNING] unhinted <y>\n' b'makeotfexe [WARNING] unhinted <l.ss02>\n' b'makeotfexe [WARNING] unhinted <a>\n' b'makeotfexe [WARNING] unhinted <v>\n' b'makeotfexe [WARNING] unhinted <u>\n' b'makeotfexe [WARNING] unhinted <w>\n' b'makeotfexe [WARNING] unhinted <g.ss01>\n' b'makeotfexe [WARNING] unhinted <at>\n' b'makeotfexe [WARNING] unhinted <m>\n' b'makeotfexe [WARNING] unhinted <h>\n' b'makeotfexe [WARNING] unhinted <e>\n' b'makeotfexe [WARNING] unhinted <z>\n' b'makeotfexe [WARNING] unhinted <t>\n' b'makeotfexe [WARNING] unhinted <f>\n' b'makeotfexe [WARNING] unhinted <c>\n' b'makeotfexe [WARNING] unhinted <r>\n' b'makeotfexe [WARNING] unhinted <y.ss01>\n' b'makeotfexe [WARNING] unhinted <g>\n' b'makeotfexe [WARNING] unhinted <l>\n' b'makeotfexe [WARNING] unhinted <b>\n' b'makeotfexe [WARNING] unhinted <G>\n' b'makeotfexe [WARNING] unhinted <x>\n' b'makeotfexe [WARNING] unhinted <o>\n' b'makeotfexe [WARNING] unhinted <p>\n' b'makeotfexe [WARNING] unhinted <B>\n' b'makeotfexe [WARNING] unhinted <i.ss02>\n' b'makeotfexe [WARNING] unhinted <s>\n' b'makeotfexe [WARNING] unhinted <j>\n' b'makeotfexe [WARNING] unhinted <R>\n' b'makeotfexe [WARNING] unhinted <k>\n' b'makeotfexe [WARNING] unhinted <i>\n' b'makeotfexe [WARNING] unhinted <n>\n' b'makeotfexe [WARNING] unhinted <S>\n' b"makeotfexe [NOTE] Wrote new font file 'RecursiveMono-MidwayLight.otf'.\n" b'\n' Built release mode font 'RecursiveMono-MidwayLight.otf' Revision 1.012
+        
+        --------------------

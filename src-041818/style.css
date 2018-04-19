@@ -90,7 +90,7 @@ nav li:last-of-type {
 
 nav li a {
     color: white;
-    font-family: var(--mono-text-bold);
+    font-family: var(--sans-heading-bold);
 }
 
 .tests {

@@ -4,9 +4,93 @@
 @font-face {
     font-family: "Recursive Sans Heading Bold";
     src: url("fonts/Recursive Sans Heading-Bold.otf");
-}
+} 
 
-@font-face {
+/* @font-face {
     font-family: "Recursive Mono Heading Bold";
     src: url("fonts/Recursive Mono Heading-Bold.otf");
+} */
+
+
+
+/* FONTS */
+
+/* MONO */
+
+/* text */
+@font-face {
+    font-family: "Recursive Mono Text Light";
+    src: url("fonts/woff2/Recursive_Mono-Text_Light_web.woff2");
 }
+@font-face {
+    font-family: "Recursive Mono Text Regular";
+    src: url("fonts/woff2/Recursive_Mono-Text_Regular_web.woff2");
+}
+@font-face {
+    font-family: "Recursive Mono Text Medium";
+    src: url("fonts/woff2/Recursive_Mono-Text_Medium_web.woff2");
+}
+@font-face {
+    font-family: "Recursive Mono Text Bold";
+    src: url("fonts/woff2/Recursive_Mono-Text_Bold_web.woff2");
+}
+
+/* heading */
+
+@font-face {
+    font-family: "Recursive Mono Heading Light";
+    src: url("fonts/woff2/Recursive_Mono-Heading_Light_web.woff2");
+}
+@font-face {
+    font-family: "Recursive Mono Heading Regular";
+    src: url("fonts/woff2/Recursive_Mono-Heading_Regular_web.woff2");
+}
+@font-face {
+    font-family: "Recursive Mono Heading Medium";
+    src: url("fonts/woff2/Recursive_Mono-Heading_Medium_web.woff2");
+}
+@font-face {
+    font-family: "Recursive Mono Heading Bold";
+    src: url("fonts/woff2/Recursive_Mono-Heading_Bold_web.woff2");
+}
+
+
+/* SANS */
+
+/* text */
+/* @font-face {
+    font-family: "Recursive Sans Text Light";
+    src: url("fonts/RecursiveSans-TextLight.otf");
+}
+@font-face {
+    font-family: "Recursive Sans Text Regular";
+    src: url("fonts/RecursiveSans-TextRegular.otf");
+}
+@font-face {
+    font-family: "Recursive Sans Text Medium";
+    src: url("fonts/RecursiveSans-TextMedium.otf");
+}
+@font-face {
+    font-family: "Recursive Sans Text Bold";
+    src: url("fonts/RecursiveSans-TextBold.otf");
+}
+
+/* heading */
+
+/* @font-face {
+    font-family: "Recursive Sans Heading Light";
+    src: url("fonts/RecursiveSans-HeadingLight.otf");
+}
+@font-face {
+    font-family: "Recursive Sans Heading Regular";
+    src: url("fonts/RecursiveSans-HeadingRegular.otf");
+}
+@font-face {
+    font-family: "Recursive Sans Heading Medium";
+    src: url("fonts/RecursiveSans-HeadingMedium.otf");
+}
+@font-face {
+    font-family: "Recursive Sans Heading Bold";
+    src: url("fonts/Recursive Sans Heading-Bold.otf");
+}
+ */ */
