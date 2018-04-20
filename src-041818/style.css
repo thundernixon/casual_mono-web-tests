@@ -81,9 +81,9 @@ header {
 
 #sidebar {
     grid-column: 1 / 2;
-    background-color: #222;
+    background-color: #000;
     padding-top: 4rem;
-    font-family: var(--sans-heading-bold);
+    font-family: var(--mono-heading-bold);
     position: fixed;
     width: var(--sidebar-width);
     height: 100vh;
@@ -110,45 +110,48 @@ header {
 }
 
 #sidebar li a:hover {
-   color: #cfc;
-   text-shadow: #000 2px 2px 0px;
+   color: #fff;
 }
+
+#sidebar ul li li a:before {
+    content: "▶";
+    position: fixed;
+    margin-left: -1.5em;
+    padding-right:.5em;
+    font-size: .65em;
+    color: rgba(0,255,0,0);
+    transition: 1s;
+}
+#sidebar ul li li a:hover:before {
+
+    color: #888;
+    transition: .25s;
+}
+
+
 
 #sidebar li ul {
     padding: 0 1rem;
     font-family: var(--mono-text-regular);
 }
-/* 
-#sidebar li ul a{
-    color: #fff;
-} */
-
-/* #sidebar li a .highlight,
-#sidebar li ul a .highlight {
-    color: #00ff00;
-} */
 
 #sidebar ul > li a.highlight {
-    /* color: #fff; */
-    /* text-shadow: #000 1px 1px, #0f0 2px 2px 2px; */
     color: #0f0;
+    transition: .25s;
 }
 
 #sidebar ul li li a.highlight {
-    /* color: #00ff00; */
     color: #fff;
     text-shadow: none;
 }
 
-
 #sidebar ul li li a.highlight:before {
-    content: "▶";
-    position: fixed;
-    color: #0f0;
-    margin-left: -1.5em;
-    padding-right:.5em;
-    font-size: .65em;
+    color: rgba(0,255,0,1);
+    transition: .25s;
 }
+
+
+
 
 #tests {
     /* grid-column: 2 / span 1; */
@@ -216,7 +219,7 @@ nav li a {
 .section-title {
     /* width: 100vw; */
     /* width: calc(100% - var(--sidebar-width)); */
-    background: #000;
+    background: #111;
     color: #00ff00;
     /* background: #00ff00; */
     /* height: 10rem; */
