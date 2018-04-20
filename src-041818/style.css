@@ -116,6 +116,7 @@ header {
 
 #sidebar li ul {
     padding: 0 1rem;
+    font-family: var(--mono-text-regular);
 }
 /* 
 #sidebar li ul a{
