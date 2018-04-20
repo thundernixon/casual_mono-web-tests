@@ -26,7 +26,7 @@ function highlightNav() {
                 }
             }
         }
-        else if (scrollPos >= window.innerHeight || bottomPos < 0) {
+        else if (scrollPos >= 100 || bottomPos < 100) {
             // console.log(section.id, scrollPos, bottomPos, "out of view")
             for (var link of fontSectionLinks){
                 let linkHref = link.hash.replace('#','');
