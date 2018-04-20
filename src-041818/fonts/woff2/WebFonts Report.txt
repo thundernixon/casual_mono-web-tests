@@ -1,6 +1,27 @@
 Web Fonts:
 **********
 
+Recursive Mono Heading-Bold.ufo
+-------------------------------
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Heading-Bold.ufo
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/woff2/Recursive_Mono-Heading_Bold_web.woff2
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] adding the style Bold from fontinfo keyword.
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b"makeotfexe [NOTE] Wrote new font file 'tmphln0dk5x.ttf'.\n" b'\n' Built release mode font 'tmphln0dk5x.ttf' Revision 1.013
+        
+        --------------------
+
+
 Recursive Mono Text-Light.ufo
 -----------------------------
 source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Text-Light.ufo
@@ -16,7 +37,7 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmpvmk3zpcp.ttf'.\n" b'\n' Built release mode font 'tmpvmk3zpcp.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmpfpol2vle.ttf'.\n" b'\n' Built release mode font 'tmpfpol2vle.ttf' Revision 1.013
         
         --------------------
 
@@ -36,7 +57,47 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmpomnnp2bu.ttf'.\n" b'\n' Built release mode font 'tmpomnnp2bu.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmpuxpp7jyu.ttf'.\n" b'\n' Built release mode font 'tmpuxpp7jyu.ttf' Revision 1.013
+        
+        --------------------
+
+
+Recursive Mono-Text Bold.ufo
+----------------------------
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono-Text Bold.ufo
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/woff2/Recursive_Mono-Text_Bold_web.woff2
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b"makeotfexe [NOTE] Wrote new font file 'tmp3_aitaeu.ttf'.\n" b'\n' Built release mode font 'tmp3_aitaeu.ttf' Revision 1.013
+        
+        --------------------
+
+
+Recursive Mono-Text Bold.ufo
+----------------------------
+source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono-Text Bold.ufo
+
+Build WOFF2 (TTF)
+'''''''''''''''''
+    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/woff2/Recursive_Mono-Text_Bold_web.woff2
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        b"makeotfexe [NOTE] Wrote new font file 'tmpkwfnt_3c.ttf'.\n" b'\n' Built release mode font 'tmpkwfnt_3c.ttf' Revision 1.013
         
         --------------------
 
@@ -57,68 +118,7 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmpovbfma4w.ttf'.\n" b'\n' Built release mode font 'tmpovbfma4w.ttf' Revision 1.012
-        
-        --------------------
-
-
-Recursive Mono-Text Bold.ufo
-----------------------------
-source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono-Text Bold.ufo
-
-Build WOFF2 (TTF)
-'''''''''''''''''
-    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/woff2/Recursive_Mono-Text_Bold_web.woff2
-    Source is a UFO file. Generate TTF.
-        --------------------
-        
-        makeotf Report
-        
-        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
-        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
-        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmp5mdw76hk.ttf'.\n" b'\n' Built release mode font 'tmp5mdw76hk.ttf' Revision 1.012
-        
-        --------------------
-
-
-Recursive Mono-Text Bold.ufo
-----------------------------
-source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono-Text Bold.ufo
-
-Build WOFF2 (TTF)
-'''''''''''''''''
-    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/woff2/Recursive_Mono-Text_Bold_web.woff2
-    Source is a UFO file. Generate TTF.
-        --------------------
-        
-        makeotf Report
-        
-        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
-        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
-        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmpgineqcpo.ttf'.\n" b'\n' Built release mode font 'tmpgineqcpo.ttf' Revision 1.012
-        
-        --------------------
-
-
-Recursive Mono Heading-Bold.ufo
--------------------------------
-source: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/01-casual_mono-project/masters/mono/Recursive Mono Heading-Bold.ufo
-
-Build WOFF2 (TTF)
-'''''''''''''''''
-    path: /Users/stephennixon/Dropbox/KABK_netherlands/type_media/000-casual-mono/02-recursive-web-tests/src-041818/fonts/woff2/Recursive_Mono-Heading_Bold_web.woff2
-    Source is a UFO file. Generate TTF.
-        --------------------
-        
-        makeotf Report
-        
-        makeotf [Note] adding the style Bold from fontinfo keyword.
-        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
-        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
-        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmp4eftt4u2.ttf'.\n" b'\n' Built release mode font 'tmp4eftt4u2.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmpcfuvnjme.ttf'.\n" b'\n' Built release mode font 'tmpcfuvnjme.ttf' Revision 1.013
         
         --------------------
 
@@ -138,7 +138,7 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmp020wll2l.ttf'.\n" b'\n' Built release mode font 'tmp020wll2l.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmp2g2x9nqq.ttf'.\n" b'\n' Built release mode font 'tmp2g2x9nqq.ttf' Revision 1.013
         
         --------------------
 
@@ -158,7 +158,7 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmpe6l0564t.ttf'.\n" b'\n' Built release mode font 'tmpe6l0564t.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmplbcphjfh.ttf'.\n" b'\n' Built release mode font 'tmplbcphjfh.ttf' Revision 1.013
         
         --------------------
 
@@ -178,7 +178,7 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmp0vat5q5c.ttf'.\n" b'\n' Built release mode font 'tmp0vat5q5c.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmp7nj9pxc8.ttf'.\n" b'\n' Built release mode font 'tmp7nj9pxc8.ttf' Revision 1.012
         
         --------------------
 
@@ -198,7 +198,7 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmplk0hmpl8.ttf'.\n" b'\n' Built release mode font 'tmplk0hmpl8.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmp4dcgvr_c.ttf'.\n" b'\n' Built release mode font 'tmp4dcgvr_c.ttf' Revision 1.012
         
         --------------------
 
@@ -218,7 +218,7 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmp5xwwqkrf.ttf'.\n" b'\n' Built release mode font 'tmp5xwwqkrf.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmpm0vufpl4.ttf'.\n" b'\n' Built release mode font 'tmpm0vufpl4.ttf' Revision 1.012
         
         --------------------
 
@@ -238,7 +238,7 @@ Build WOFF2 (TTF)
         makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
         makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
         makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-        b"makeotfexe [NOTE] Wrote new font file 'tmpddd5hdds.ttf'.\n" b'\n' Built release mode font 'tmpddd5hdds.ttf' Revision 1.012
+        b"makeotfexe [NOTE] Wrote new font file 'tmpnq528co2.ttf'.\n" b'\n' Built release mode font 'tmpnq528co2.ttf' Revision 1.012
         
         --------------------
 

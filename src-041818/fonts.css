@@ -20,40 +20,61 @@
 /* text */
 @font-face {
     font-family: "Recursive Mono Text Light";
-    src: url("fonts/woff2/Recursive_Mono-Text_Light_web.woff2");
+    src: url("fonts/otf/RecursiveMono-TextLight.otf");
 }
 @font-face {
     font-family: "Recursive Mono Text Regular";
-    src: url("fonts/woff2/Recursive_Mono-Text_Regular_web.woff2");
+    src: url("fonts/otf/RecursiveMono-TextRegular.otf");
 }
 @font-face {
     font-family: "Recursive Mono Text Medium";
-    src: url("fonts/woff2/Recursive_Mono-Text_Medium_web.woff2");
+    src: url("fonts/otf/RecursiveMono-TextMedium.otf");
 }
 @font-face {
     font-family: "Recursive Mono Text Bold";
-    src: url("fonts/woff2/Recursive_Mono-Text_Bold_web.woff2");
+    src: url("fonts/otf/RecursiveMono-TextBold.otf");
 }
 
 /* heading */
 
 @font-face {
     font-family: "Recursive Mono Heading Light";
-    src: url("fonts/woff2/Recursive_Mono-Heading_Light_web.woff2");
+    src: url("fonts/otf/RecursiveMono-HeadingLight.otf");
 }
 @font-face {
     font-family: "Recursive Mono Heading Regular";
-    src: url("fonts/woff2/Recursive_Mono-Heading_Regular_web.woff2");
+    src: url("fonts/otf/RecursiveMono-HeadingRegular.otf");
 }
 @font-face {
     font-family: "Recursive Mono Heading Medium";
-    src: url("fonts/woff2/Recursive_Mono-Heading_Medium_web.woff2");
+    src: url("fonts/otf/RecursiveMono-HeadingMedium.otf");
 }
 @font-face {
     font-family: "Recursive Mono Heading Bold";
-    src: url("fonts/woff2/Recursive_Mono-Heading_Bold_web.woff2");
+    src: url("fonts/otf/RecursiveMono-HeadingBold.otf");
 }
 
+/* heading italic */
+@font-face {
+    font-family: "Recursive Mono Heading Light Italic";
+    font-style: italic;
+    src: url("fonts/otf/RecursiveMono-HeadingLightItalic.otf");
+}
+@font-face {
+    font-family: "Recursive Mono Heading Regular Italic";
+    font-style: italic;
+    src: url("fonts/otf/RecursiveMono-HeadingRegularItalic.otf");
+}
+@font-face {
+    font-family: "Recursive Mono Heading Medium Italic";
+    font-style: italic;
+    src: url("fonts/otf/RecursiveMono-HeadingMediumItalic.otf");
+}
+@font-face {
+    font-family: "Recursive Mono Heading Bold Italic";
+    font-style: italic;
+    src: url("fonts/otf/RecursiveMono-HeadingBoldItalic.otf");
+}
 
 /* SANS */
 

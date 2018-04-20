@@ -8,6 +8,7 @@ html {
 }
 
 :root {
+    /* mono */
     --mono-text-light:"Recursive Mono Text Light", "IBM Plex Mono", monospace;
     --mono-text-regular:"Recursive Mono Text Regular", "IBM Plex Mono", monospace;
     --mono-text-medium:"Recursive Mono Text Medium", "IBM Plex Mono", monospace;
@@ -16,6 +17,13 @@ html {
     --mono-heading-regular:"Recursive Mono Heading Regular", "IBM Plex Mono", monospace;
     --mono-heading-medium:"Recursive Mono Heading Medium", "IBM Plex Mono", monospace;
     --mono-heading-bold:"Recursive Mono Heading Bold", "IBM Plex Mono", monospace;
+
+    /* mono italic */
+
+    --mono-heading-light-italic: "Recursive Mono Heading Light Italic", "IBM Plex Mono", monospace;
+    --mono-heading-regular-italic: "Recursive Mono Heading Regular Italic", "IBM Plex Mono", monospace;
+    --mono-heading-medium-italic: "Recursive Mono Heading Medium Italic", "IBM Plex Mono", monospace;
+    --mono-heading-bold-italic: "Recursive Mono Heading Bold Italic", "IBM Plex Mono", monospace;
 
     /* sans */
     --sans-text-light:"Recursive Sans Text Light", "IBM Plex Sans", monospace;
@@ -33,7 +41,7 @@ html {
     --p-med: 2vw;
 
     /* sidebar */
-    --sidebar-width: 225px;
+    --sidebar-width: 250px;
 }
 
 /* html {
@@ -120,7 +128,7 @@ header {
     padding-right:.5em;
     font-size: .65em;
     color: rgba(0,255,0,0);
-    transition: 1s;
+    transition: .75s;
 }
 #sidebar ul li li a:hover:before {
 
