@@ -76,7 +76,7 @@ header {
     /* height: 3rem; */
     grid-area: header;
     z-index: 2;
-    border-bottom: 1px solid #00ff00;
+    border-bottom: 1px solid #444;
 }
 
 #sidebar {
@@ -128,13 +128,25 @@ header {
 } */
 
 #sidebar ul > li a.highlight {
-    color: #fff;
-    text-shadow: #000 1px 1px, #0f0 2px 2px 2px;
+    /* color: #fff; */
+    /* text-shadow: #000 1px 1px, #0f0 2px 2px 2px; */
+    color: #0f0;
 }
 
 #sidebar ul li li a.highlight {
-    color: #00ff00;
+    /* color: #00ff00; */
+    color: #fff;
     text-shadow: none;
+}
+
+
+#sidebar ul li li a.highlight:before {
+    content: "▶";
+    position: fixed;
+    color: #0f0;
+    margin-left: -1.5em;
+    padding-right:.5em;
+    font-size: .65em;
 }
 
 #tests {

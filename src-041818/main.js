@@ -1,24 +1,20 @@
 const fontSections = document.querySelectorAll(".font-section")
 const fontSectionLinks = document.querySelectorAll("#sidebar a")
 
-console.log(fontSections)
-console.log(fontSectionLinks)
-
-for (var section of fontSections) {
-    console.log(section)
-}
+// console.log(fontSections)
+// console.log(fontSectionLinks)
 
 function highlightNav() {
-    console.log(window.scrollY)
+    // console.log(window.scrollY)
     for (var section of fontSections) {
-        console.log("scroll is ", window.scrollY)
+        // console.log("scroll is ", window.scrollY)
         let scrollPos = section.offsetTop - window.scrollY
         let bottomPos = scrollPos + section.offsetHeight 
 
         console.log(section.offsetTop)
         if (scrollPos <= 100 && scrollPos + section.offsetHeight >= 100) {
             
-            console.log(section.id, scrollPos, bottomPos, "in view")
+            // console.log(section.id, scrollPos, bottomPos, "in view")
             // console.log(section)
             
             for (var link of fontSectionLinks){
@@ -31,7 +27,7 @@ function highlightNav() {
             }
         }
         else if (scrollPos >= window.innerHeight || bottomPos < 0) {
-            console.log(section.id, scrollPos, bottomPos, "out of view")
+            // console.log(section.id, scrollPos, bottomPos, "out of view")
             for (var link of fontSectionLinks){
                 let linkHref = link.hash.replace('#','');
                 // console.log(linkHref);
@@ -53,3 +49,5 @@ function highlightNav() {
 highlightNav()
 
 document.addEventListener('scroll', highlightNav)
+
+fontSectionLinks.addEventListener('onclick', highlightNav)
