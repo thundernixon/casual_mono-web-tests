@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Recursive Mono_Text Light';
+    src:    url('Recursive_Mono-Text_Light_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Heading Light';
+    src:    url('Recursive_Mono-Heading_Light_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Heading Bold';
+    src:    url('Recursive_Mono-Heading_Bold_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Text Bold';
+    src:    url('Recursive_Mono-Text_Bold_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Text Bold';
+    src:    url('Recursive_Mono-Text_Bold_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Heading Bold';
+    src:    url('Recursive_Mono-Heading_Bold_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Heading Light';
+    src:    url('Recursive_Mono-Heading_Light_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Text Light';
+    src:    url('Recursive_Mono-Text_Light_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Text Regular';
+    src:    url('Recursive_Mono-Text_Regular_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Text Medium';
+    src:    url('Recursive_Mono-Text_Medium_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Heading Regular';
+    src:    url('Recursive_Mono-Heading_Regular_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Recursive Mono_Heading Medium';
+    src:    url('Recursive_Mono-Heading_Medium_web.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
