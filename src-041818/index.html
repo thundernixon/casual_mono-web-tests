@@ -12,35 +12,101 @@
 
 <body>
     <header>
-        <h1>Recursive Type Tests - Apr 18, 2018</h1>
-        <nav>
-            <ul>
-                <li>
-                    <a href="#sans-heading">Sans Heading</a>
-                </li>
-                <li>
-                    <a href="#mono-heading">Mono Heading</a>
-                </li>
-                <li>
-                    <a href="#mono-text">Mono Text</a>
-                </li>
-                <!-- 
-                <li>
-                    <a href="#sans-text">Sans Text</a>
-                </li> -->
-            </ul>
-        </nav>
+        <h1>Recursive</h1>
+        <p>Type Tests - Apr 21, 2018</p>
     </header>
-    <div class="tests">
+    <div id="sidebar">
+        <ul>
+            <li>
+                <a href="#sans-heading">Sans Heading</a>
+                <ul>
+                    <li>
+                        <a href="#sans-heading-bold">Bold</a>
+                    </li>
+                    <!-- <li>
+                        <a href="#sans-heading-medium">Medium</a>
+                    </li>
+                    <li>
+                        <a href="#sans-heading-regular">Regular</a>
+                    </li>
+                    <li>
+                        <a href="#sans-heading-light">Light</a>
+                    </li> -->
+                </ul>
+            </li>
+            <!-- <li>
+                <a href="#sans-heading">Sans Text</a>
+                <ul>
+                    <li>
+                        <a href="#sans-text-bold">Bold</a>
+                    </li>
+                    <li>
+                        <a href="#sans-text-medium">Medium</a>
+                    </li>
+                    <li>
+                        <a href="#sans-text-regular">Regular</a>
+                    </li>
+                    <li>
+                        <a href="#sans-text-light">Light</a>
+                    </li>
+                </ul>
+            </li> -->
+            <li>
+                <a href="#mono-heading">Mono Heading</a>
+                <ul>
+                        <li>
+                            <a href="#mono-heading-bold">Bold</a>
+                        </li>
+                        <!-- <li>
+                            <a href="#mono-heading-medium">Medium</a>
+                        </li>
+                        <li>
+                            <a href="#mono-heading-regular">Regular</a>
+                        </li>
+                        <li>
+                            <a href="#mono-heading-light">Light</a>
+                        </li> -->
+                    </ul>
+            </li>
+            <li>
+                <a href="#mono-text">Mono Text</a>
+                <ul>
+                    <li>
+                        <a href="#mono-text-bold">Bold</a>
+                    </li>
+                    <!-- <li>
+                        <a href="#mono-text-medium">Medium</a>
+                    </li> -->
+                    <li>
+                        <a href="#mono-text-regular">Regular</a>
+                    </li>
+                    <!-- <li>
+                        <a href="#mono-text-light">Light</a>
+                    </li> -->
+                </ul>
+            </li>
+            <!-- 
+            <li>
+                <a href="#sans-text">Sans Text</a>
+            </li> -->
+        </ul>
+    </div>
+    <div id="tests">
 
         <!-- ///////////////////////////////// -->
         <!-- ///////// Sans Heading ////////// -->
         <!-- ///////////////////////////////// -->
-        <section id="sans-heading" style="font-family:var(--sans-heading-bold);">
-            <div  class="bold">
-                <div class="section-title">
+        <section class="font-section" id="sans-heading" style="font-family:var(--sans-heading-bold);">
+            <div class="section-title">
                     <div class="section-title-wrapper">
-                        <h3>Recursive Sans  </br> Heading Bold</h3>
+                        <h3>Recursive Sans  </br> Heading</h3>
+                        <p>For expressive headlines in web-based docs and technical blogs, around 16–72 px in size</p>
+                    </div>
+            </div>
+            <div  class="bold font-section" id="sans-heading-bold">
+                <div class="font-title">
+                    <div class="font-title-wrapper">
+                        <h4>Recursive Sans  </br> Heading Bold</h4>
                     </div>
                 </div>
                 <!-- Display Bold -->
@@ -136,11 +202,17 @@
         <!-- ///////// Mono Heading ////////// -->
         <!-- ///////////////////////////////// -->
 
-        <section id="mono-heading" style="font-family:var(--mono-heading-bold);">
-            <div  class="bold">
-                <div class="section-title">
+        <section id="mono-heading" class="font-section" style="font-family:var(--mono-heading-bold);">
+            <div class="section-title">
                     <div class="section-title-wrapper">
-                        <h3>Recursive Mono </br> Heading Bold</h3>
+                        <h3>Recursive Mono  </br> Heading</h3>
+                        <p>For flavorful monospace headlines in markdown and for code snippets inside web headlines, around 16–72 px in size</p>
+                    </div>
+            </div>
+            <div id="mono-heading-bold" class="bold font-section">
+                <div class="font-title">
+                    <div class="font-title-wrapper">
+                        <h4>Recursive Mono </br> Heading Bold</h4>
                     </div>
                 </div>
                 <!-- Display Bold -->
@@ -190,14 +262,12 @@
                     <p class="waterfall size-1">
                         <span class="caption">36px / 45px</span>
                         </br>
-                        A common computer programming tactic is to divide a problem into sub-problems of the same type as the original, solve those
-                        sub-problems, and combine the results.
+                        A common computer programming tactic is to divide a problem into sub-problems of the same type as the original, solve those sub-problems, and combine the results.
                     </p>
                     <p class="waterfall size-2">
                         <span class="caption">24px / 30px</span>
                         </br>
-                        A common computer programming tactic is to divide a problem into sub-problems of the same type as the original, solve those
-                        sub-problems, and combine the results. This is often referred to as the divide-and-conquer method;
+                        A common computer programming tactic is to divide a problem into sub-problems of the same type as the original, solve those sub-problems, and combine the results. This is often referred to as the divide-and-conquer method;
                     </p>
                     <p class="waterfall size-3">
                         <span class="caption">18px / 22.5px</span>
@@ -239,11 +309,17 @@
         <!-- ///////// Mono Text ////////////// -->
         <!-- ///////////////////////////////// -->
 
-        <section id="mono-text" style="font-family:var(--mono-text-bold);">
-                <div  class="bold">
-                    <div class="section-title">
-                        <div class="section-title-wrapper">
-                            <h3>Recursive Mono </br> Text Bold</h3>
+        <section id="mono-text" class="font-section" style="font-family:var(--mono-text-bold);">
+            <div class="section-title">
+                    <div class="section-title-wrapper">
+                        <h3>Recursive Mono Text</h3>
+                        <p>a slightly-restrained set of styles for long-form code editing and code snippets at small sizes, around 10–15px</p>
+                    </div>
+            </div>
+                <div id="mono-text-bold" class="bold font-section">
+                    <div class="font-title">
+                        <div class="font-title-wrapper">
+                            <h4>Recursive Mono Text Bold</h4>
                         </div>
                     </div>
                     <!-- Display Bold -->
@@ -340,13 +416,13 @@
 
         <!-- MONO TEXT REGULAR -->
 
-        <section id="mono-heading" style="font-family:var(--mono-text-regular);">
-                <div  class="bold">
-                    <div class="section-title">
-                        <div class="section-title-wrapper">
-                            <h3>Recursive Mono </br> Text Regular</h3>
-                        </div>
-                    </div>
+        <section style="font-family:var(--mono-text-regular);">
+                <div id="mono-text-regular"  class="bold font-section">
+                        <div class="font-title">
+                                <div class="font-title-wrapper">
+                                    <h4>Recursive Mono Text Regular</h4>
+                                </div>
+                            </div>
                     <!-- Display Bold -->
     
                     <div class="page">
@@ -440,6 +516,7 @@
             </section>
 
         </div>
+        <script src="main.js"></script>
 </body>
 
 </html>
