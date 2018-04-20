@@ -219,7 +219,7 @@ nav li a {
 .section-title {
     /* width: 100vw; */
     /* width: calc(100% - var(--sidebar-width)); */
-    background: #111;
+    background: #181818;
     color: #00ff00;
     /* background: #00ff00; */
     /* height: 10rem; */
