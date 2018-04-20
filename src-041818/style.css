@@ -42,6 +42,10 @@ html {
 
     /* sidebar */
     --sidebar-width: 250px;
+
+    /* colors */
+
+    --main-accent: #00ff00;
 }
 
 /* html {
@@ -144,7 +148,7 @@ header {
 }
 
 #sidebar ul > li a.highlight {
-    color: #0f0;
+    color: var(--main-accent);
     transition: .25s;
 }
 
@@ -228,8 +232,8 @@ nav li a {
     /* width: 100vw; */
     /* width: calc(100% - var(--sidebar-width)); */
     background: #181818;
-    color: #00ff00;
-    /* background: #00ff00; */
+    color: var(--main-accent);
+    /* background: var(--main-accent); */
     /* height: 10rem; */
     display: grid;
     align-items: center;
